@@ -36,7 +36,7 @@ Lockout is a [Knockout](http://knockoutjs.com/) clone in [Lua](http://www.lua.or
 
 The source code can be found at:
 
-    https://github.com/callin2/lockout.lua
+	https://github.com/callin2/lockout.lua.git
 	
 This project uses [Underscore.lua](http://mirven.github.com/underscore.lua/) for table operation. you will have to install Underscore.lua first
 
