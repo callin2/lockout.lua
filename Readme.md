@@ -4,15 +4,15 @@ Lockout is a [Knockout](http://knockoutjs.com/) clone in [Lua](http://www.lua.or
 
 ## Features
 
-* Observables
-** observable
-** observableArray is not implemented
-** subscribable
-** computed
-** extenders
+### Observables
+* observable
+* observableArray is not implemented
+* subscribable
+* computed
+* extenders
 
-* Bindings
-** Lockout is not for DOM operation. It does not offer binding feature.
+### Bindings
+* Lockout is not for DOM operation. It does not offer binding feature.
 
 ## An Example
 	local lo = require("lockout")
