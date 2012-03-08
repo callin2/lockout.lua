@@ -74,6 +74,7 @@ This project uses [telescope](https://github.com/norman/telescope) for its specs
     instance:notifySubscribers(456, "myEvent");
     assert_equal(456,notifiedValue)
 
+You can find more example at lockout_test.lua
 
 ## Author
 
